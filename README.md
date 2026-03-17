@@ -1,2 +1,2 @@
 # chooseYourOwnAdventure
-in java for cpsc-39
+a game for cpsc-25 
